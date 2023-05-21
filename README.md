@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm currently in my third and final year of study at the University of Tasmania
+
 Bachelor of ICT Majoring in Software Development 🎓 
 
 🌱 I’m currently learning ... Spring Boot 
