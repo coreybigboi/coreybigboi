@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello there! 👋
 I'm currently in my third and final year of study at the University of Tasmania
 
-Bachelor of ICT Majoring in Software Development 🎓 
+🎓 Bachelor of ICT Majoring in Software Development 
 
-🌱 I’m currently learning ... Spring Boot 
+🌱 I’m currently learning ... Spring Boot and React
 
 ⚡ Fun fact: I've worked as a BlackJack dealer for over 6 years
 <!--
