@@ -1,7 +1,9 @@
 ### Hello there! 👋
 I'm currently in my third and final year of study at the University of Tasmania
 
-🎓 Bachelor of ICT Majoring in Software Development 
+🎓 Bachelor of ICT Majoring in Software Development
+
+🎮 Check out some cool games I've made: https://corey-bigboi.itch.io/ 
 
 🌱 I’m currently learning ... Spring Boot and React
 
