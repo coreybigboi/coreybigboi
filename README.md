@@ -5,7 +5,7 @@ I'm currently in my third and final year of study at the University of Tasmania
 
 🎮 Check out some cool games I've made: https://corey-bigboi.itch.io/ 
 
-🌱 I’m currently learning ... Spring Boot and React
+🌱 I’m currently learning ... Express.js and Jest
 
 ⚡ Fun fact: I've worked as a BlackJack dealer for over 6 years
 <!--
