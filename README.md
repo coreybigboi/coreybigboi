@@ -1,5 +1,5 @@
 ### Hello there! 👋
-I'm currently in my third and final year of study at the University of Tasmania
+I'm a recent grad from the University of Tasmania and currently working for the Department of Health and Aged Care. 
 
 🎓 Bachelor of ICT Majoring in Software Development
 
