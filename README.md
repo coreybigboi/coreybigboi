@@ -5,7 +5,7 @@ I'm a recent grad from the University of Tasmania and currently working for the 
 
 🎮 Check out some cool games I've made: https://corey-bigboi.itch.io/ 
 
-🌱 I’m currently learning ... Express.js and TypeScript
+🌱 I’m currently learning ... Angular, Micronaut, and Azure 
 
 ⚡ Fun fact: I worked as a BlackJack dealer for over 6 years
 <!--
