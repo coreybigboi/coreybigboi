@@ -1,6 +1,8 @@
 ### Hello there! 👋
 I'm a recent grad from the University of Tasmania and currently working for the Department of Health and Aged Care. 
 
+Check out my personal site [here](https://coreybigboi.github.io/)
+
 🎓 Bachelor of ICT Majoring in Software Development
 
 🎮 Check out some cool games I've made: https://corey-bigboi.itch.io/ 
