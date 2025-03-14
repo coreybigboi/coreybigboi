@@ -1,5 +1,5 @@
 ### Hello there! 👋
-I'm a recent grad from the University of Tasmania and currently working for the Department of Health and Aged Care. 
+I'm full-stack software developer working for the Australian Department of Health and Aged Care.
 
 Check out my personal site [here](https://coreybigboi.github.io/)
 
